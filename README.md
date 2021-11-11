@@ -1,4 +1,5 @@
-# graphql-node Tutorial
+# graphql-node
+## today I'm in learning mood ¯/_(ツ )__/¯
 
 * Apollo Server
 * Prisma Client to access database inside of GraphQL resolvers

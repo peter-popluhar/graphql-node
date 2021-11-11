@@ -1,0 +1,30 @@
+{
+  "name": "graphql-node",
+  "version": "1.0.0",
+  "description": "* Apollo Server * Prisma Client to access database inside of GraphQL resolvers * SQLite database * GraphQL Playground * Auto-generates comprehensive documentation for all available API operations #### source: https://www.howtographql.com/graphql-js/0-introduction/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter-popluhar/graphql-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peter-popluhar/graphql-node/issues"
+  },
+  "homepage": "https://github.com/peter-popluhar/graphql-node#readme",
+  "dependencies": {
+    "@prisma/client": "^3.4.2",
+    "apollo-server": "^2.25.3",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^15.7.2",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "prisma": "^3.4.2"
+  }
+}
